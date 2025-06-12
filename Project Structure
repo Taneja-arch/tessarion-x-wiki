@@ -1,0 +1,2 @@
+mkdir src config routes controllers middlewares
+touch src/index.js config/default.js .env .env.example
