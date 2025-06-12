@@ -1,3 +1,8 @@
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange)
+![Version](https://img.shields.io/badge/version-0.1.0-alpha-lightgrey)
+
 # 🌌 Tessarion-X Tech-Inc.
 
 **Welcome to the official GitHub repository of Tessarion-X Tech-Inc.**  
