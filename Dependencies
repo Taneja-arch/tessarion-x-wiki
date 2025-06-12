@@ -1,0 +1,2 @@
+npm install express dotenv cors helmet
+npm install --save-dev nodemon
